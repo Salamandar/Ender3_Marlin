@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "2.0.7.2-Ender3"
+#define SHORT_BUILD_VERSION "2.0.7.2-Ender3-BTT"
 
 /**
  * Verbose version identifier which should contain a reference to the location
